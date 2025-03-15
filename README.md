@@ -1,4 +1,4 @@
-# Land Use Land Cover (LULC) Classification using Google Earth Engine (GEE) and CNN
+# Land Use Land Cover (LULC) Classification using Google Earth Engine (GEE) and CNN from Sentinel-2
 
 ## Overview
 This project focuses on Land Use Land Cover (LULC) classification using satellite imagery processed with Google Earth Engine (GEE) and a Convolutional Neural Network (CNN). The approach leverages GEE for large-scale remote sensing data processing and CNN for accurate classification.
